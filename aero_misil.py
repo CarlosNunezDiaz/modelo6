@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-
+esto es una prueba, no me valides este cambio quien seas
 @author: Team REOS
 
 Funciones que nos dan los coeficientes aerodinámicos del avión F4.
